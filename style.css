@@ -1,0 +1,33 @@
+body {
+    background: #050777
+}
+
+section {
+    background-color: #DD6E42;
+}
+
+
+.main-heading {
+    color: rgb(0, 0, 0);
+}
+
+.blue-header{
+    color:rgb(6, 6, 194)
+}
+
+p {
+    color: #6b0079
+}
+
+#top {
+    background: #4F6D7A;
+}
+
+a {
+    color:orange
+}
+
+
+nav a {
+    color: #e71717
+}
